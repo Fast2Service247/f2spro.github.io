@@ -209,12 +209,6 @@ Version      : 1.0
 		});
 	}
 
-	// Fav-btn
-	
-	$('.fav-btn .fav-icon').on('click', function () {
-      	$(this).toggleClass('favourite');
-    });
-
 	// Chat
 
 	var chatAppTarget = $('.chat-window');
